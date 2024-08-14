@@ -1,30 +1,55 @@
-# 👋 Hi, I’m @Vishnu8299
+# 👋 Hi there, I'm [Your Name]!
 
-![Animated Profile](https://media.giphy.com/media/3o7aD7z6Ijc3kNz4b6/giphy.gif) <!-- Replace this with your own animated GIF -->
+## 📖 About Me
+- 🎓 Pursuing [Your Degree] in [Your Field] @ [Your Institution].
+- 💻 Conducting research on [Your Research Focus] @ [Your Research Lab].
+- 🖥️ Currently working on [Current Project or Focus].
 
-## 👀 I’m interested in:
-- Full Stack Development
-- AI and Machine Learning
-- Web Scraping
+## 🛠️ Technologies & Tools
+<p align="left">
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <!-- Add more technologies and tools as needed -->
+</p>
 
-## 🌱 I’m currently learning:
-- Advanced Natural Language Processing (NLP)
-- Modern Flutter Techniques
+## 💻 Open-Source Projects
 
-## 💞️ I’m looking to collaborate on:
-- Open Source Projects
-- AI-based Solutions
-- Web and Mobile Applications
+### Machine Learning
+| Title                    | Stars | Technologies               |
+|--------------------------|-------|----------------------------|
+| [Project Name]           | ⭐️ 100| TensorFlow, PyTorch        |
+| [Another Project]        | ⭐️ 200| OpenCV, Pandas, SciPy      |
+| [Yet Another Project]    | ⭐️ 150| NumPy, Scikit-learn        |
 
-## 📫 How to reach me:
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+### PyPi Packages
+| Title                    | Stars | Technologies               |
+|--------------------------|-------|----------------------------|
+| [Package Name]           | ⭐️ 80 | SQL, PyPi, MySQL           |
+| [Another Package]        | ⭐️ 120| CloudPyPi, Dropbox         |
+| [Yet Another Package]    | ⭐️ 95 | YamlPyPi, CircleCI         |
 
-## 😄 Pronouns:
-- He/Him
+### Bots
+| Title                    | Stars | Technologies               |
+|--------------------------|-------|----------------------------|
+| [Bot Name]               | ⭐️ 75 | Gmail, Dropbox             |
+| [Another Bot]            | ⭐️ 90 | MySQL RDS, Heroku          |
 
-## ⚡ Fun fact:
-- I once built a mini AI assistant for my home automation system!
+### Misc Projects
+| Title                    | Stars | Technologies               |
+|--------------------------|-------|----------------------------|
+| [Game or App Name]       | ⭐️ 60 | p5, Android                |
+| [Another Project]        | ⭐️ 85 | Raspberry, Spotify         |
 
-<!--- You can also add HTML for more customization! --->
+## 📈 Stats
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs,issues&count_private=true&include_all_commits=true)](https://github.com/Vishnu8299)
+
