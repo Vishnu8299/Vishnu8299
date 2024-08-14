@@ -52,5 +52,5 @@
 
 ## 📈 Stats
 ## 📊 Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu8299&layout=compact&hide=html)](https://github.com/Vishnu8299)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu8299&langs_count=10&layout=compact)](https://github.com/Vishnu8299)
 
