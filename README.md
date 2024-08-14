@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&background=3FFF2700&vCenter=true&multiline=true&width=600&height=150&lines=Vishnu+Vardhan;Computer+Vision+Researcher+%7C%7C+BE-CSE+Student+%7C;%7C+Computer+Vision+%7C%7C+Bots" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&background=3FFF2700&vCenter=true&multiline=true&width=600&height=150&lines=Vishnu+Vardhan;Computer+Vision+Researcher+%7C%7C+BE-CSE+Student+%7C;%7CAI+Model+developer+%7C%7C+Bots" alt="Typing SVG" /></a>
 <br/>
 
 <a href="https://gkos.dev">
