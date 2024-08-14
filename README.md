@@ -51,5 +51,4 @@
 | [Another Project]        | ⭐️ 85 | Raspberry, Spotify         |
 
 ## 📈 Stats
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs,issues&count_private=true&include_all_commits=true)](https://github.com/Vishnu8299)
-
+[![Vishnu8299's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishnu8299&show_icons=true&hide_title=true&hide=prs,issues&count_private=true&include_all_commits=true)](https://github.com/Vishnu8299)
