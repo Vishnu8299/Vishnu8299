@@ -1,3 +1,29 @@
+# 👋 Hi, I’m @Vishnu8299
+
+## 👀 I’m interested in:
+- Full Stack Development
+- AI and Machine Learning
+- Web Scraping
+
+## 🌱 I’m currently learning:
+- Advanced Natural Language Processing (NLP)
+- Modern Flutter Techniques
+
+## 💞️ I’m looking to collaborate on:
+- Open Source Projects
+- AI-based Solutions
+- Web and Mobile Applications
+
+## 📫 How to reach me:
+- Email: vishnuvardhanv046@gmail.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/vishnu-vardhan-vemula-34973a296/)
+
+## 😄 Pronouns:
+- He/Him
+
+## ⚡ Fun fact:
+- I once built a mini AI assistant for my home automation system!
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&background=3FFF2700&vCenter=true&multiline=true&width=600&height=150&lines=Vishnu+Vardhan;Computer+Vision+Researcher+%7C%7C+BE-CSE+Student+%7C;%7CAI+Model+developer+%7C%7C+Bots" alt="Typing SVG" /></a>
 <br/>
