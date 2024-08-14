@@ -1,7 +1,9 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&background=3FFF2700&vCenter=true&multiline=true&width=600&height=150&lines=Vishnu+Vardhan;Computer+Vision+Researcher+%7C%7C+BE-CSE+Student+%7C;%7CAI+Model+developer+%7C%7C+Bots" alt="Typing SVG" /></a>
 <br/>
-
+<a href="https://github.com/Vishnu8299">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Vishnu8299&cc=22272e&tc=37BCF6&ic=fff&bc=0000" style="width: 450px; height: auto;">
+</a>
 </p>
 
 * 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
