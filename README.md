@@ -46,4 +46,6 @@ My Github Stats
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishnu8299&theme=dracula)
 <br>
 </summary>
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Vishnu8299&label=Profile%20Views&pretty=false" />
+</a>
