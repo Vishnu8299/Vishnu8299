@@ -19,7 +19,7 @@
 
 ## 📫 How to reach me:
 - Email: vishnuvardhanv046@gmail.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/vishnu-vardhan-vemula-34973a296/)
+- LinkedIn: [vishnu vardhan vemula](https://www.linkedin.com/in/vishnu-vardhan-vemula-34973a296/)
 
 ## 😄 Pronouns:
 - He/Him
